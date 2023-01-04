@@ -17,6 +17,7 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
 ```python
 #Program to swap two values.
@@ -29,8 +30,8 @@ m2=m1
 m1=temp
 print('Swapped values are:',m1,m2)
 ```
-
-
+### OUTPUT:
+![OUTPUT](./images/exp01py.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
