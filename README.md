@@ -31,7 +31,10 @@ m1=temp
 print('Swapped values are:',m1,m2)
 ```
 ### OUTPUT:
-![OUTPUT](./images/exp01py.png)
+![WhatsApp Image 2023-01-22 at 15 42 45](https://user-images.githubusercontent.com/119395610/213910567-33960a00-4be0-41ed-9302-721560ae9f05.jpg)
+![WhatsApp Image 2023-01-22 at 09 52 35](https://user-images.githubusercontent.com/119395610/213910586-37687a1a-1c58-4a5d-afce-2208a7d5a6c5.jpg)
+
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
